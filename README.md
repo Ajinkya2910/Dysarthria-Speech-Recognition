@@ -120,6 +120,17 @@ Additionally, there's an alternative approach shown where inference is performed
 - Ensure all dependencies are installed as listed in each notebook's 'Adding Dependencies' section.
 - Data must be accessible either locally or via Google Drive as specified in the notebooks.
 
+- Cleaned data in pickle format, you can skip the notebook 1 if you start with this: [Link](https://drive.google.com/file/d/1UT2gm0I0XY_7ykfBPFKLljAhRHO59n-z/view?usp=drive_link)
+
+
+- If you are just want to train, validate and test the model use the links below:
+[Train dataset](https://drive.google.com/drive/folders/1VQgAAbvnbCS1CBwGeaduyZQHjztgVG5g?usp=drive_link)
+[Validate dataset](https://drive.google.com/drive/folders/1KxaOUe55EgGvTPJ2XfnxbrQk5stIwSTu?usp=drive_link)
+[Test dataset](https://drive.google.com/drive/folders/1fxcsi3VE5AjK-cy4MnuwBra3lAMIdJEL?usp=drive_link)
+
+
+- If you trying the inference, get the fine tuned model from this link: [Link](https://drive.google.com/drive/folders/1il7hyjwOR2nYyJfMdckTcKwCcp6JOKX2?usp=drive_link)
+
 ## Usage
 
 Follow the notebooks in the sequence they are presented:
